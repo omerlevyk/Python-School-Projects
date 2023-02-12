@@ -4,6 +4,7 @@ The program should print the average temperature for the above measurements. Exa
 after the point
 In addition, the rounded average value must be printed on a separate line (for example, for 6.23, print 24, and for 2.30
 Print 30. For 5.x, print the closest even integer.
+Also, you CAN NOT use "if else" statement.
 
 ## Python_Introduction_Project_1_Question_2
 Write a program that accepts three characters, and two integers; The first x and the second y.
