@@ -2,6 +2,7 @@
 Write a program that checks whether a year received in the input is a leap year or not, prints True or
 False accordingly, and in addition to the year it receives a number of a day in the given year, and accordingly prints the full date of
 the given day.
+Also, you CAN NOT use "if else" statement.
 
 ##Python_Introduction_Project_2_Question_2.py
 Implement a program that receives three letters, which represent the encryption of a numeric password, and return the
